@@ -3,7 +3,11 @@
 # Discord-Bot-Base
 This is the base of a Discord Bot in Node.js
 
-To start, run the following command in the terminal:
+First you must create an application in Discord, and thus be able to create the bot and obtain its Token, you can do this from the Discord Developers section:
+
+https://discord.com/developers/
+
+To start with the bot, run the following command in the terminal:
 
 `npm install`
 
