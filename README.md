@@ -25,7 +25,7 @@ Have fun programming!
 
 **Contributors:**
 
-<a href="https://github.com/AcoDev/Discord-Bot-Base/graphs/contributors">
+<a href="https://github.com/AcoDev/">
   <img src="https://contrib.rocks/image?repo=AcoDev/Discord-Bot-Base" />
 </a>
 
