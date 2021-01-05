@@ -23,4 +23,10 @@ or
 
 Have fun programming!
 
+**Contributors:**
+
+<a href="https://github.com/AcoDev/Discord-Bot-Base/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AcoDev/Discord-Bot-Base" />
+</a>
+
 ![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg) ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)
