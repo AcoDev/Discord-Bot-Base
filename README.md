@@ -7,6 +7,10 @@ First you must create an application in Discord, and thus be able to create the 
 
 https://discord.com/developers/
 
+Then you will need to modify the [config.json](https://github.com/AcoDev/Discord-Bot-Base/blob/master/config.json)
+
+---
+
 To start with the bot, run the following command in the terminal:
 
 `npm install`
